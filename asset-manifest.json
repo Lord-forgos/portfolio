@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d84710fe.css",
+    "main.js": "/static/js/main.962b13e5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/1_Visite_catalogue.png": "/static/media/1_Visite_catalogue.5c88bae404ee33ccfd43.png",
+    "static/media/4_Gérer_rédacteurs.png": "/static/media/4_Gérer_rédacteurs.0c076ef32e9ae80484fc.png",
+    "static/media/5_Gérer_les_cafés.png": "/static/media/5_Gérer_les_cafés.ba16b179bfec2aa19333.png",
+    "static/media/commander_produit.png": "/static/media/commander_produit.7c98f4b2f940faf9b608.png",
+    "static/media/WebBackground.png": "/static/media/WebBackground.3d97a73d44f27db45afd.png",
+    "static/media/NativeBackground.png": "/static/media/NativeBackground.9af8eb46bc0134d42aed.png",
+    "static/media/DB.png": "/static/media/DB.3e33fbc7ab1f1b8b64a5.png",
+    "static/media/AntikBackground.png": "/static/media/AntikBackground.3c5c413cb88146baceb2.png",
+    "static/media/NativeT.png": "/static/media/NativeT.23b6b86a57cd2f4039fc.png",
+    "static/media/informer_commandes.png": "/static/media/informer_commandes.f9299f528431a875284e.png",
+    "static/media/2_3_Gérer_les_articles_rubriques.png": "/static/media/2_3_Gérer_les_articles_rubriques.5d9ed9e3ca6597cb99d7.png",
+    "static/media/2_Suivre_ma_commande.png": "/static/media/2_Suivre_ma_commande.af7c496c2f33dc3ef17e.png",
+    "static/media/2_Créer_Rédiger_un_article.png": "/static/media/2_Créer_Rédiger_un_article.aecf32eda8383566a33c.png",
+    "static/media/6_Gérer_une_commande.png": "/static/media/6_Gérer_une_commande.f63276b011e8b27829bd.png",
+    "static/media/Welcome.png": "/static/media/Welcome.77f74ad5167f7424ad75.png",
+    "static/media/3_Envoyer_un_mail.png": "/static/media/3_Envoyer_un_mail.7f02632537d7e3f297d7.png",
+    "static/media/navbar.png": "/static/media/navbar.55e48167be4c82b9bb4b.png",
+    "static/media/Account.png": "/static/media/Account.eb3d90b8ebb851449bc9.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.d84710fe.css.map": "/static/css/main.d84710fe.css.map",
+    "main.962b13e5.js.map": "/static/js/main.962b13e5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84710fe.css",
+    "static/js/main.962b13e5.js"
+  ]
+}
